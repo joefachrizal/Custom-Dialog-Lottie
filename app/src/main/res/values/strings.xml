@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom dialog</string>
+    <string name="click_yes_no">Notification YES or NO</string>
+    <string name="click_yes">Notification YES</string>
+    <string name="text_content">Success to
+Change Name</string>
+    <string name="negative_answer">Cancel</string>
+    <string name="positive_answer">Confirm</string>
+</resources>
